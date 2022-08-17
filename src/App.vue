@@ -17,6 +17,15 @@
           <li><b>Age:</b> 31</li>
           <li><b>Gender:</b> Male</li>
         </ul>
+        <v-btn
+          class="ma-2"
+          variant="outlined"
+          href="https://arquivos-s3-maycon-lemos.s3.sa-east-1.amazonaws.com/MayconLemos.pdf"
+          target="_blank"
+          color="indigo"
+        >
+          Download CV
+        </v-btn>
       </v-col>
 
       <v-col cols="12" xl="6" md="6" sm="12" class="titulo mt-5">
