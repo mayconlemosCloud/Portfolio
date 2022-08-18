@@ -51,6 +51,7 @@ import Footer from "./components/Footer.vue";
 import BarSkill from "./components/BarSkill.vue";
 import CardCurriculo from "./components/CardCurriculo.vue";
 import Projetos from "./components/Projetos.vue";
+
 export default {
   components: { BarSkill, Foto, Footer, CardCurriculo, Projetos },
   data() {
